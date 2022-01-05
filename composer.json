@@ -47,8 +47,8 @@
         }
     },
     "replace": {
-        "lookscool/package-a": "self.version",
-        "lookscool/package-b": "self.version"
+        "lookscool/package-a": "0.1.0",
+        "lookscool/package-b": "0.1.0"
     },
     "minimum-stability": "dev"
 }
