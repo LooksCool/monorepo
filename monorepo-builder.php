@@ -44,4 +44,6 @@ return static function (ContainerConfigurator $containerConfigurator): void {
             'symplify/monorepo-builder' => '^9.0',
         ],
     ]);
+
+    // $parameters->set(Option::PACKAGE_ALIAS_FORMAT, '<major>.<minor>');
 };
